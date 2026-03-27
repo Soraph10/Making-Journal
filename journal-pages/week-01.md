@@ -15,7 +15,7 @@ We had our introductary class to which we were taught the basis of what the cour
 
 For our first question we noted down that two of us drive to uni while the remaining three, trained then walked or took the bus. Moving onto our work question we discovered that two people had jobs while the rest of us did not. The next question was general one to which we all found our sleeping times were all over the place, one person sleeping at 11 pm, another sleeping at 1 am and two of us sleeping around 4 am and the last one not sleeping at all which is pretty surprising as they didn't even look tired at all.
 
- We just decided to note down a random question, that being how much do you weigh. We noticed that were two groups, the first group of three ranging from the 60s to high 70s in kilograms then myself and another being over 100 kilograms. For our final question we decided to go with was family related, a simple one; how many siblings do you have. Two were only childs while the rest of us had a sibling or two. Afterwards we drew up a visual representation of our questions.
+We just decided to note down a random question, that being how much do you weigh. We noticed that were two groups, the first group of three ranging from the 60s to high 70s in kilograms then myself and another being over 100 kilograms. For our final question we decided to go with was family related, a simple one; how many siblings do you have. Two were only childs while the rest of us had a sibling or two. Afterwards we drew up a visual representation of our questions.
 
 For the individual section after, I decided to pick what I complain about on a daily basis. I began noting this down on Saturday stretching out to Tuesday. I don't really have a good reason as to why I picked this to track in particular, I saw the examplar questions and decided to use the first one to see how much I really complain about stuff on a daily basis. 
 
@@ -36,8 +36,8 @@ Any other reflections?
 
 *Use the format below to embed images from your assets folder:*
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+![Questions](/assets/week-01/images/Questions.jpg)
+*Your caption here*
 
 
 
