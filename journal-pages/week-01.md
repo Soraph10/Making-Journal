@@ -37,8 +37,13 @@ Any other reflections?
 *Use the format below to embed images from your assets folder:*
 
 ![Questions](/assets/week-01/images/Questions.jpg)
-*Your caption here*
+*Group Questions*
 
+![Questions Drawing](/assets/week-01/images/Questions%20Drawing.jpg) 
+
+![Another Group's questions](/assets/week-01/images/Another%20group's%20questions.jpg)
+
+![Another group's drawings](/assets/week-01/images/Another%20group%20drawings.jpg)
 
 
 *The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
