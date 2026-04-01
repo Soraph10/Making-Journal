@@ -8,8 +8,6 @@ layout: default
 
 ## Documentation 
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
-
 ### Friday 6th March
 We had our introductary class to which we were taught the basis of what the course will teach us. Towards the last section of the class we were tasked with our first assignment getting into groups and coming up with questions to ask each other. For our questions our group chose we decided on these five. How do you get to school?; Do you work?; What time did you sleep last night?; How much do you weigh?; How many siblings do you have?
 
@@ -23,8 +21,7 @@ To be completely honest when I was collecting data on what I complain about, it 
 
 So I may forget to note it down. Visualising my data I just did the similar thing to our in class activity with our groups, drawing pictures to represent each question or rather answer to them. When I was drawing each response I found myself struggling to decide what make symbol for chores be, in the end I chose a rubbish bag since it was simple to draw other than other things such as plates, cleaning, mowing grass, etc. I noticed myself being more hesistant on how often I complained, it seemed like I held myself more accountable since I was now noting down how often I complained about certain things.
 
-What choices did you make for your data collection? What does it emphasise? What is left out?
-
+For the choices I decided to make for my data collection I feel as though I picked the easy route as this is something I'm comfortable with noting down and showing. Although I feel as though that I could've done a better job at doing the data visualisation part due to some drawings having the possibilty of being misunderstood as something else without the questions I used to represent them available. As for what is left out I suppose a better visualisation could've been done or rather if I had picked better question to ask myself perhaps the results would have been better.
 
 How does this exercise relate to data humanism and the *Dear Data* project?
 
@@ -34,20 +31,31 @@ Any other reflections?
 
 ## Images & Media
 
-*Use the format below to embed images from your assets folder:*
 
 ![Questions](/assets/week-01/images/Questions.jpg)
 *Group Questions*
 
+
 ![Questions Drawing](/assets/week-01/images/Questions%20Drawing.jpg) 
+*Group Drawing*
+
 
 ![Another Group's questions](/assets/week-01/images/Another%20group's%20questions.jpg)
+*Another Group's Questions*
+
 
 ![Another group's drawings](/assets/week-01/images/Another%20group%20drawings.jpg)
+*Another Group's Drawings
 
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+![Data Questions](/assets/week-01/images/Data%20questions.jpg)
+*Data Questions*
+
+
+![Data Visualisation](/assets/week-01/images/Data%20Visualisation.jpg)
+*Data Drawings*
+
 
 ## AI Usage Statement
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+I did not use AI for this documentation.
