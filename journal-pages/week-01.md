@@ -31,29 +31,12 @@ Any other reflections?
 
 ## Images & Media
 
-
-![Questions](/assets/week-01/images/Questions.jpg)
-*Group Questions*
-
-
-![Questions Drawing](/assets/week-01/images/Questions%20Drawing.jpg) 
-*Group Drawing*
-
-
-![Another Group's questions](/assets/week-01/images/Another%20group's%20questions.jpg)
-*Another Group's Questions*
-
-
-![Another group's drawings](/assets/week-01/images/Another%20group%20drawings.jpg)
-*Another Group's Drawings
-
-
-![Data Questions](/assets/week-01/images/Data%20questions.jpg)
-*Data Questions*
-
-
-![Data Visualisation](/assets/week-01/images/Data%20Visualisation.jpg)
-*Data Drawings*
+![alt text](../assets/week-01/images/Questions.jpg)
+![alt text](<../assets/week-01/images/Questions Drawing.jpg>)
+![alt text](<../assets/week-01/images/Another group's questions.jpg>)
+![alt text](<../assets/week-01/images/Another group drawings.jpg>)
+![alt text](<../assets/week-01/images/Data questions.jpg>)
+![alt text](<../assets/week-01/images/Data Visualisation.jpg>)
 
 
 ## AI Usage Statement
