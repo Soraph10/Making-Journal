@@ -8,8 +8,7 @@ layout: default
 
 ## Documentation 
 
-## Friday 20th March
-
+### Friday 20th March
 In this class we learned about Live Data, first going over a brief history on the early versions of live data. 
 
 This consisted of the Dangling String made by Natalie Jeremijenko in 1995. It was made from a plastic string, electric motor and an ethernet cable. Which allowed it to represent many things such as Internet being made visible, the more movement it made this indicated heavier network traffic and many things. This string was an early prototype for designing calm technology.
@@ -22,45 +21,32 @@ Some of the things that we can do in the terminal are; Navigating files and fold
 
 The different commands we tried out, showed things such as animations of a person running, parrot dancing, earth spinning. Along with data displaying the weather for the next three days, starting from morning, noon, evening then night.
 
-As we played around and experiment with curl we eventually moved on and discussed what a API is. The API is a structed way for programs to both communicate and exchange data. 
+As we played around and experiment with curl we eventually moved on and discussed what a API is. The API is a structed way for programs to both communicate and exchange data. Instead of us reading the response in a terminal our code can read and do something with it.
 
 
-
-
-Did you take a digital or analogue/physical approach? Why?
+## Independent Study
 I decided to go with the digital approach as I felt as though it would be quite tedious to approach this task with the analogue/physical approach.
 
-What live data source did you work with, and how did you access it?
+The API I chose to work with LaunchBox Games Database, in order to access this I had to do some research through Reddit and eventually I came across this site. 
 
+The decision to map with data as I am not confident with making something in material form. I also wanted to challenge and learn something by doing it in data form.
 
-How did you decide on the mapping between data and visual/material form?
+I used GeminiAI to help me with the p5.js sketch however, I encountered many problems as I ran into API key errors, the CORS issue. In some cases problems that I couldn't solve on my own so I put it back through GeminiAI to solve it for me. Unfortunately leading to yet another problem.
 
+Most definitely find out how to do process properly as I left it till the last minute to complete, which resulted in major troubles as I couldn't figure out how to solve the issue involved with the p5.js web editor. as I mentioned earlier API key problems. In reality I really should've look at more websites that focus on games rather than just look at like 5-6 and deciding it'll do.
 
-What does your work reveal or communicate about the data?
-
-
-Did you use vibe coding, LLMs, or other tools in your process? What did you learn?
-
-
-How does your work relate to the practitioner examples discussed in class (e.g. David Bowen, Conditional Design, Nathalie Miebach)?
-
-
-What would you develop further with more time?
-
-
-Any other reflections?
-
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
 
 ## Images & Media
 
-*Use the format below to embed images from your assets folder:*
-
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
-
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+![Slides Example](../assets/week-03/images/Curl-Forest.png)
+![Slides Example 2](<../assets/week-03/images/p5.js weather report.png>)
+![Ollama](../assets/week-03/images/Ollama.png)
+![Ollama Weather Report](<../assets/week-03/images/Weather Report.png>)
+![alt text](<../assets/week-03/images/Failed p5.js Sketch.png>)
+*p5.js sketch failure*
 
 ## AI Usage Statement
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+I used GeminiAI to help me create and learn from the p5.js sketch. By reading through the code and figuring out the problems.
+
+Google. (2026). Gemini (March 5 version) [Large language model]. https://gemini.google.com/

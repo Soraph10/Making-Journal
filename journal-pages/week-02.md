@@ -32,7 +32,7 @@ I would take more time in learning a bit more about the ways p5.js works, rather
 
 ![Recreation of Example](<../assets/week-02/images/Example Recreation.png>)
 ![No background code](<../assets/week-02/images/No background.png>)
-
+![DOM Elements](<../assets/week-02/images/DOM Elements.png>)
 <iframe src="https://editor.p5js.org/ruil413/full/bGAlTI0xv"></iframe>
 
 
